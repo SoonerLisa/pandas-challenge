@@ -70,3 +70,5 @@ MEDIUM, 90.62
 LARGE, 58.29
 
 My predictions were completely incorrect. Students attending small, charter schools with less spending per capita have the highest passing % overall.
+
+Disclosure: No sources outside of standard school curriculum were used. 
